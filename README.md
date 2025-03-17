@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Omar Duran</h1>
-<h3 align="center">Hola, soy Omar Duran, tengo 20 y nací en Floridablanca y mis intereses principales son la programación y creación</h3>
+<h1 align="center">Hi 👋, I'm Omar David Duran Pardo</h1>
+<h3 align="center">Hola, soy Omar David Duran Pardo, tengo 20 y nací en Floridablanca y mis intereses principales son la programación y creación</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
